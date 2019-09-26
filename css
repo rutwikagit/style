@@ -1,0 +1,11 @@
+*{padding: 0;margin: 0;}
+#wrapper{padding: 3px;}
+#header{  height:50px; background-image:url("fl.jpg");}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+  
